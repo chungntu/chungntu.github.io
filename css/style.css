@@ -635,7 +635,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .timeline-item {
   position: relative;
-  margin-bottom: 2rem;
+  margin-bottom: 1.25rem;
 }
 
 .timeline-item:last-child {
@@ -646,8 +646,8 @@ h1, h2, h3, h4, h5, h6 {
   position: absolute;
   left: -2rem;
   top: 6px;
-  width: 16px;
-  height: 16px;
+  width: 15px;
+  height: 15px;
   border-radius: 50%;
   background: var(--bg-secondary);
   border: 3px solid var(--accent-primary);
@@ -665,18 +665,18 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 0.76rem;
   font-family: var(--font-mono);
   font-weight: 600;
-  padding: 0.2rem 0.65rem;
+  padding: 0.18rem 0.6rem;
   border-radius: var(--radius-full);
   background: var(--accent-blue-bg);
   color: var(--accent-primary);
-  margin-bottom: 0.4rem;
+  margin-bottom: 0.35rem;
 }
 
 .timeline-content {
   background: var(--bg-card);
   border: 1px solid var(--border-subtle);
   border-radius: var(--radius-md);
-  padding: 1.4rem;
+  padding: 1rem 1.3rem;
   box-shadow: var(--shadow-sm);
   transition: all var(--transition-fast);
 }
@@ -687,16 +687,16 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .timeline-role {
-  font-size: 1.1rem;
+  font-size: 1.05rem;
   font-weight: 700;
-  margin-bottom: 0.25rem;
+  margin-bottom: 0.2rem;
 }
 
 .timeline-org {
-  font-size: 0.94rem;
+  font-size: 0.92rem;
   color: var(--text-secondary);
   font-weight: 500;
-  margin-bottom: 0.5rem;
+  margin-bottom: 0;
 }
 
 .timeline-desc {
