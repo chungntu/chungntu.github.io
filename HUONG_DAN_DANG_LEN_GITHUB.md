@@ -38,7 +38,7 @@ Sau khi code đã được push lên GitHub:
 ---
 
 ## 👤 BƯỚC 3: TẠO TRANG PROFILE GITHUB CÁ NHÂN GIỐNG `anhtaynguyen`
-*(Để trang cá nhân `https://github.com/chungntu` có bảng giới thiệu, lý lịch và bài báo nổi bật y hệt như trang của An Anh Tây Nguyên)*
+*(Để trang cá nhân `https://github.com/chungntu` có lý lịch khoa học và bài báo nổi bật)*
 
 1. Vào link: **[https://github.com/new](https://github.com/new)**.
 2. Tại ô **Repository name**, nhập đúng tên tài khoản:

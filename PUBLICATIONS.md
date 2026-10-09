@@ -14,7 +14,6 @@
 5. [Sách & Giáo trình Đào tạo (Books)](#5-sách--giáo-trình-đào-tạo-books)
 6. [Đề tài Khoa học Công nghệ (Research Grants)](#6-đề-tài-khoa-học-công-nghệ-research-grants)
 7. [Hướng dẫn Sinh viên Nghiên cứu Khoa học](#7-hướng-dẫn-sinh-viên-nghiên-cứu-khoa-học)
-8. [Thành tích & Khen thưởng Khoa học (Honors & Awards)](#8-thành-tích--khen-thưởng-khoa-học-honors--awards)
 
 ---
 
@@ -352,23 +351,4 @@
    *Tối ưu kết cấu tấm khoét lỗ sử dụng phương pháp tối ưu topology*.  
    *(Đạt Giải Ba Hội nghị Sinh viên NCKH Trường ĐH Nha Trang)*.
 
----
 
-## 8. Thành tích & Khen thưởng Khoa học (Honors & Awards)
-
-- **2024–2025:** Giấy khen Hiệu trưởng Trường ĐHNT về việc Hướng dẫn SV tham gia Hội nghị NCKH SV đạt Giải Ba (QĐ 703/QĐ-ĐHNT ngày 22/5/2025).
-- **2023–2024:** 
-  - Danh hiệu **Viên chức tiêu biểu** Trường ĐHNT (QĐ 122/QĐ-ĐHNT).
-  - Danh hiệu **Chiến sĩ thi đua cơ sở** & Lao động HTXSNV (QĐ 1977/QĐ-ĐHNT).
-  - **Bằng khen của Ban Chấp hành Công đoàn Giáo dục Việt Nam** (QĐ 284/QĐ-CĐN ngày 06/08/2024).
-  - Giấy khen Hiệu trưởng Giải A Hội thi Sáng tạo Kỹ thuật tỉnh Khánh Hòa (QĐ 161/QĐ-ĐHNT).
-  - Giấy khen Hiệu trưởng Hướng dẫn SV NCKH đạt Giải Ba (QĐ 724/QĐ-ĐHNT).
-- **2022–2023:** 
-  - **Giải A Hội thi Sáng tạo Kỹ thuật** trong đoàn viên công đoàn, CNVCLĐ tỉnh Khánh Hòa (QĐ 231/QĐ-LĐ).
-  - Giấy khen Hiệu trưởng Trường ĐHNT Hoàn thành xuất sắc nhiệm vụ (QĐ 1758/QĐ-ĐHNT).
-  - Giấy khen Công đoàn Trường ĐHNT thành tích xuất sắc (QĐ 101/QĐ-CĐT).
-  - Danh hiệu Chiến sĩ thi đua cơ sở & HTXSNV (QĐ 1331/QĐ-ĐHNT & QĐ 1638/QĐ-ĐHNT).
-- **2021–2022:** Chiến sĩ thi đua cơ sở (QĐ 1424/QĐ-ĐHNT) & HTXSNV (QĐ 1423/QĐ-ĐHNT).
-- **2020–2021:** Lao động Hoàn thành xuất sắc nhiệm vụ (QĐ 1302/QĐ-ĐHNT).
-- **2010:** Student Best Paper Award — Hội nghị Địa chấn Hàn Quốc (EESK), Jeju, Hàn Quốc.
-- **2008:** Huy chương Bạc tốt nghiệp xuất sắc (Silver Medal) & Tốt nghiệp loại Giỏi (Cum Laude) — Đại học Bách Khoa TP.HCM.

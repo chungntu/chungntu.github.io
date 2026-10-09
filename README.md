@@ -12,33 +12,12 @@
 
 </div>
 
----
+## 🔬 Lĩnh vực Nghiên cứu (Research Interests)
 
-## 👨‍🏫 Giới thiệu (About Me)
-
-Tôi là **Trương Thành Chung**, Giảng viên tại **Khoa Xây dựng, Trường Đại học Nha Trang**. Tôi tốt nghiệp Kỹ sư loại Giỏi (Huy chương Bạc) tại **Đại học Bách Khoa TP.HCM** và nghiên cứu tại Viện Khoa học và Công nghệ Tiên tiến Hàn Quốc (**KAIST**).
-
-- 🔭 **Lĩnh vực nghiên cứu chính:**
-  - **Quan trắc sức khỏe công trình (SHM)** & Kiểm tra không phá hủy (NDT).
-  - **Sóng siêu âm Laser (Laser Ultrasonics)** & Kỹ thuật hình ảnh hóa Wavenumber Imaging.
-  - **Thị giác máy tính & AI trong Xây dựng:** Khử rung camera, đo chuyển vị cầu đường sắt bằng UAV/Drone, nhận dạng vết nứt bê tông tự động bằng Deep Learning (CNN & LSTM).
-  - **Mô hình phần tử hữu hạn (FEM Updating)** & Tối ưu hóa Topology kết cấu.
-- 🌐 **Website cá nhân:** [chungntu.github.io](https://chungntu.github.io/)
-
----
-
-## 📊 Thống kê Nghiên cứu & Thành tựu
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│ 📚 Công bố khoa học: 37+ bài báo & kỷ yếu hội nghị          │
-│ 🌐 Tạp chí Quốc tế (ISI / Scopus Q1-Q2): 11 bài báo        │
-│ 💡 Bằng Sáng chế: 02 (01 US Patent & 01 Korean Patent)      │
-│ 📖 Sách & Giáo trình đào tạo: 03 cuốn                       │
-│ 🔬 Đề tài NCKH cấp Trường: 08 đề tài (02 Chủ nhiệm)         │
-│ 🏆 Khen thưởng: Bằng khen CĐGD Việt Nam, Giải A Sáng tạo KH │
-└─────────────────────────────────────────────────────────────┘
-```
+- **Quan trắc sức khỏe công trình (SHM)** & Kiểm tra không phá hủy (NDT).
+- **Sóng siêu âm Laser (Laser Ultrasonics)** & Kỹ thuật hình ảnh hóa Wavenumber Imaging.
+- **Thị giác máy tính & AI trong Xây dựng:** Khử rung camera, đo chuyển vị cầu đường sắt bằng UAV/Drone, nhận dạng vết nứt bê tông tự động bằng Deep Learning (CNN & LSTM).
+- **Mô hình phần tử hữu hạn (FEM Updating)** & Tối ưu hóa Topology kết cấu.
 
 ---
 
@@ -47,8 +26,8 @@ Tôi là **Trương Thành Chung**, Giảng viên tại **Khoa Xây dựng, Trư
 - **2020 – Hiện tại:** Giảng viên, Khoa Xây dựng, **Trường Đại học Nha Trang (NTU)**, Việt Nam.
 - **2016 – 2019:** Nghiên cứu viên, Khoa Kỹ thuật Hàng không Vũ trụ, **KAIST**, Hàn Quốc.
 - **2012 – 2015:** Nghiên cứu viên, Viện Nghiên cứu **LANL-CBNU** Engineering Institute Korea, Hàn Quốc.
-- **2009 – 2011:** Civil & Environmental Engineering, **KAIST**, Hàn Quốc (*GPA: 3.73/4.3*).
-- **2003 – 2008:** Kỹ sư Xây dựng (B.S.), **Đại học Bách Khoa TP.HCM (HCMUT)**, Việt Nam (*GPA: 8.52/10.0 — Tốt nghiệp loại Giỏi, Huy chương Bạc*).
+- **2009 – 2011:** Civil & Environmental Engineering, **KAIST**, Hàn Quốc.
+- **2003 – 2008:** Kỹ sư Xây dựng (B.S.), **Đại học Bách Khoa TP.HCM (HCMUT)**, Việt Nam.
 
 ---
 
