@@ -57,7 +57,7 @@
 
 ## 📬 Liên hệ (Contact)
 
-- **Cơ quan:** Khoa Xây dựng, Trường Đại học Nha Trang, Số 02 Nguyễn Đình Chiểu, TP. Nha Trang, Khánh Hòa.
+- **Cơ quan:** Khoa Xây dựng, Trường Đại học Nha Trang, Số 02 Nguyễn Đình Chiểu, Phường Bắc Nha Trang, TP. Nha Trang, Tỉnh Khánh Hòa, Việt Nam.
 - **Email:** [chungtt@ntu.edu.vn](mailto:chungtt@ntu.edu.vn) | [chungtruongthanh@gmail.com](mailto:chungtruongthanh@gmail.com)
 - **Điện thoại:** (+84) 0763-223-248
 - **Google Scholar:** [Hồ sơ Trương Thành Chung](https://scholar.google.com/citations?user=GGEVr8oAAAAJ&hl=en&authuser=1)
