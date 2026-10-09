@@ -733,7 +733,7 @@ const publicationsData = [
   {
     id: "pub-book-1",
     category: "book",
-    type: "Book / Giáo trình",
+    type: "Book & Textbook",
     badgeClass: "badge-book",
     year: 2024,
     title: "Cơ học kết cấu công trình xây dựng: Tập 1",
@@ -752,7 +752,7 @@ const publicationsData = [
   {
     id: "pub-book-2",
     category: "book",
-    type: "Book / Giáo trình",
+    type: "Book & Textbook",
     badgeClass: "badge-book",
     year: 2024,
     title: "Cơ học kết cấu công trình xây dựng: Tập 2",
@@ -770,7 +770,7 @@ const publicationsData = [
   {
     id: "pub-book-3",
     category: "book",
-    type: "Book / Giáo trình",
+    type: "Book & Textbook",
     badgeClass: "badge-book",
     year: 2024,
     title: "Phân tích độ tin cậy kết cấu công trình xây dựng",
@@ -849,8 +849,8 @@ function renderPublications() {
     container.innerHTML = `
       <div style="text-align: center; padding: 3rem 1rem; color: var(--text-muted); background: var(--bg-card); border-radius: var(--radius-md); border: 1px dashed var(--border-strong);">
         <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" style="margin: 0 auto 1rem; opacity: 0.6;"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
-        <p style="font-size: 1.05rem; font-weight: 600;">Không tìm thấy bài báo hoặc tài liệu phù hợp.</p>
-        <p style="font-size: 0.88rem; margin-top: 0.35rem;">Thử nhập từ khóa khác hoặc chọn mục "Tất cả".</p>
+        <p style="font-size: 1.05rem; font-weight: 600;">No publications or documents found.</p>
+        <p style="font-size: 0.88rem; margin-top: 0.35rem;">Try adjusting your search query or select "All".</p>
       </div>
     `;
     return;
@@ -978,10 +978,10 @@ function initModal() {
     copyBtn.addEventListener('click', () => {
       if (!activeBibtex) return;
       navigator.clipboard.writeText(activeBibtex).then(() => {
-        showToast("Đã sao chép BibTeX vào bộ nhớ tạm!");
+        showToast("BibTeX citation copied to clipboard!");
         if (modal) modal.classList.remove('active');
       }).catch(() => {
-        showToast("Sao chép thất bại!");
+        showToast("Failed to copy citation!");
       });
     });
   }
