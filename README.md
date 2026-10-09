@@ -56,15 +56,15 @@ Tôi là **Trương Thành Chung**, Giảng viên tại **Khoa Xây dựng, Trư
 
 ### 🌟 Tạp chí Quốc tế (Selected International Journals)
 1. **Passive infrared thermography technique for concrete structures health investigation case studies**  
-   *Asian Journal of Civil Engineering* (2023) | [DOI: 10.1007/s42107-023-00571-y](https://doi.org/10.1007/s42107-023-00571-y) | [PDF](https://drive.google.com/open?id=1DuEBMQdU_m3do9rh84-JJxwb8t9q3g0O&authuser=chungtruongthanh%40gmail.com&usp=drive_fs)
+   *Asian Journal of Civil Engineering* (2023) | [DOI: 10.1007/s42107-023-00571-y](https://doi.org/10.1007/s42107-023-00571-y) | [PDF](./pdf/2023_passive_infrared_thermography_concrete_health.pdf)
 2. **Parametric optimization of pulse-echo laser ultrasonic system for inspection of thick polymer matrix composites**  
-   *Structural Health Monitoring* (2020) | [DOI: 10.1177/1475921719852891](https://doi.org/10.1177/1475921719852891) | [PDF](https://drive.google.com/file/d/1h5dB1FoSAOxrA1gU5fQUM-2twGDQg9eF/view?usp=sharing)
+   *Structural Health Monitoring* (2020) | [DOI: 10.1177/1475921719852891](https://doi.org/10.1177/1475921719852891) | [PDF](./pdf/2020_parametric_optimization_pulse_echo_laser_ultrasonic.pdf)
 3. **Thickness reconstruction of nuclear power plant pipes with flow-accelerated corrosion damage using laser ultrasonic wavenumber imaging**  
-   *Structural Health Monitoring* (2018) | [DOI: 10.1177/1475921716689733](https://doi.org/10.1177/1475921716689733) | [PDF](https://drive.google.com/open?id=1yRqYj2HuDqAIZ9mSdvuY2-mxJi7ch259)
+   *Structural Health Monitoring* (2018) | [DOI: 10.1177/1475921716689733](https://doi.org/10.1177/1475921716689733) | [PDF](./pdf/2018_thickness_reconstruction_nuclear_pipes_wavenumber_imaging.pdf)
 4. **SNR enhancement for composite application using multiple Doppler vibrometers based laser ultrasonic propagation imager**  
-   *Optics and Lasers in Engineering* (2016) | [DOI: 10.1016/j.optlaseng.2016.03.029](https://doi.org/10.1016/j.optlaseng.2016.03.029) | [PDF](https://drive.google.com/file/d/0B3jvQNBz5V4HajN0Q3p0bHVhN0k/view?usp=sharing)
+   *Optics and Lasers in Engineering* (2016) | [DOI: 10.1016/j.optlaseng.2016.03.029](https://doi.org/10.1016/j.optlaseng.2016.03.029) | [PDF](./pdf/2016_snr_enhancement_laser_ultrasonic_propagation_imager.pdf)
 5. **Spar disbond visualization in in-service composite UAV with ultrasonic propagation imager**  
-   *Aerospace Science and Technology* (2015) | [DOI: 10.1016/j.ast.2015.05.010](https://doi.org/10.1016/j.ast.2015.05.010) | [PDF](https://drive.google.com/file/d/0B3jvQNBz5V4Hb2FxeUxURmVpRmM/view?usp=sharing)
+   *Aerospace Science and Technology* (2015) | [DOI: 10.1016/j.ast.2015.05.010](https://doi.org/10.1016/j.ast.2015.05.010) | [PDF](./pdf/2015_spar_disbond_visualization_composite_uav.pdf)
 
 👉 Xem toàn bộ danh mục 37+ bài báo, đề tài và sách giáo trình tại: [**PUBLICATIONS.md**](./PUBLICATIONS.md) hoặc file BibTeX tại [**publications/publications.bib**](./publications/publications.bib).
 
