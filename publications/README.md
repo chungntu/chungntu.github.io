@@ -1,6 +1,6 @@
 # Publications & Research Works — Truong Thanh Chung
 
-Kho lưu trữ toàn bộ các bài báo khoa học, kỷ yếu hội nghị, bằng sáng chế và sách giáo trình của **ThS. Trương Thành Chung (Truong Thanh Chung)**.
+Kho lưu trữ toàn bộ các bài báo khoa học, kỷ yếu hội nghị, bằng sáng chế và sách giáo trình của **Trương Thành Chung (Truong Thanh Chung)**.
 
 - **Đơn vị công tác:** Khoa Xây dựng, Trường Đại học Nha Trang (NTU), Việt Nam.
 - **Cựu Nghiên cứu viên:** KAIST (Hàn Quốc) & LANL-CBNU (Hàn Quốc).

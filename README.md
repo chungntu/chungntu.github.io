@@ -16,14 +16,13 @@
 
 ## 👨‍🏫 Giới thiệu (About Me)
 
-Tôi là **Trương Thành Chung**, Giảng viên tại **Khoa Xây dựng, Trường Đại học Nha Trang**. Tôi tốt nghiệp Kỹ sư loại Giỏi (Huy chương Bạc) tại **Đại học Bách Khoa TP.HCM** và nhận bằng Thạc sĩ Kỹ thuật tại Viện Khoa học và Công nghệ Tiên tiến Hàn Quốc (**KAIST**).
+Tôi là **Trương Thành Chung**, Giảng viên tại **Khoa Xây dựng, Trường Đại học Nha Trang**. Tôi tốt nghiệp Kỹ sư loại Giỏi (Huy chương Bạc) tại **Đại học Bách Khoa TP.HCM** và nghiên cứu tại Viện Khoa học và Công nghệ Tiên tiến Hàn Quốc (**KAIST**).
 
 - 🔭 **Lĩnh vực nghiên cứu chính:**
   - **Quan trắc sức khỏe công trình (SHM)** & Kiểm tra không phá hủy (NDT).
   - **Sóng siêu âm Laser (Laser Ultrasonics)** & Kỹ thuật hình ảnh hóa Wavenumber Imaging.
   - **Thị giác máy tính & AI trong Xây dựng:** Khử rung camera, đo chuyển vị cầu đường sắt bằng UAV/Drone, nhận dạng vết nứt bê tông tự động bằng Deep Learning (CNN & LSTM).
   - **Mô hình phần tử hữu hạn (FEM Updating)** & Tối ưu hóa Topology kết cấu.
-- 💬 **Giảng dạy:** Cơ học kết cấu, Động lực học công trình, Hướng dẫn sinh viên NCKH.
 - 🌐 **Website cá nhân:** [chungntu.github.io](https://chungntu.github.io/)
 
 ---
@@ -48,7 +47,7 @@ Tôi là **Trương Thành Chung**, Giảng viên tại **Khoa Xây dựng, Trư
 - **2020 – Hiện tại:** Giảng viên, Khoa Xây dựng, **Trường Đại học Nha Trang (NTU)**, Việt Nam.
 - **2016 – 2019:** Nghiên cứu viên, Khoa Kỹ thuật Hàng không Vũ trụ, **KAIST**, Hàn Quốc.
 - **2012 – 2015:** Nghiên cứu viên, Viện Nghiên cứu **LANL-CBNU** Engineering Institute Korea, Hàn Quốc.
-- **2009 – 2011:** Thạc sĩ Kỹ thuật (M.S.), Civil & Environmental Engineering, **KAIST**, Hàn Quốc (*GPA: 3.73/4.3*).
+- **2009 – 2011:** Civil & Environmental Engineering, **KAIST**, Hàn Quốc (*GPA: 3.73/4.3*).
 - **2003 – 2008:** Kỹ sư Xây dựng (B.S.), **Đại học Bách Khoa TP.HCM (HCMUT)**, Việt Nam (*GPA: 8.52/10.0 — Tốt nghiệp loại Giỏi, Huy chương Bạc*).
 
 ---
@@ -86,5 +85,5 @@ Tôi là **Trương Thành Chung**, Giảng viên tại **Khoa Xây dựng, Trư
 
 ---
 <div align="center">
-  <sub>Trang GitHub cá nhân được xây dựng cho ThS. Trương Thành Chung. Cập nhật năm 2026.</sub>
+  <sub>Trang GitHub cá nhân của Trương Thành Chung. Cập nhật năm 2026.</sub>
 </div>

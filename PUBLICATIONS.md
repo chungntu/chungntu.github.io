@@ -1,5 +1,5 @@
 # Danh mục Công trình Khoa học & Công bố (Publications)
-**Tác giả: ThS. Trương Thành Chung (Truong Thanh Chung)**  
+**Tác giả: Trương Thành Chung (Truong Thanh Chung)**  
 *Khoa Xây dựng, Trường Đại học Nha Trang (NTU), Việt Nam*  
 *Cựu Nghiên cứu viên: KAIST & LANL-CBNU, Hàn Quốc*  
 *Hồ sơ Google Scholar:* [Google Scholar Profile](https://scholar.google.com/citations?user=GGEVr8oAAAAJ&hl=en&authuser=1)
