@@ -14,10 +14,16 @@
 
 ## 🔬 Lĩnh vực Nghiên cứu (Research Interests)
 
-- **Quan trắc sức khỏe công trình (SHM)** & Kiểm tra không phá hủy (NDT).
-- **Sóng siêu âm Laser (Laser Ultrasonics)** & Kỹ thuật hình ảnh hóa Wavenumber Imaging.
-- **Thị giác máy tính & AI trong Xây dựng:** Khử rung camera, đo chuyển vị cầu đường sắt bằng UAV/Drone, nhận dạng vết nứt bê tông tự động bằng Deep Learning (CNN & LSTM).
-- **Mô hình phần tử hữu hạn (FEM Updating)** & Tối ưu hóa Topology kết cấu.
+- **Structural Health Monitoring (SHM)** — Quan trắc chẩn đoán sức khỏe kết cấu công trình.
+- **Virtual Sensing & Compressive Sensing** — Cảm biến ảo, nén dữ liệu đo và tối ưu hóa vị trí/số lượng cảm biến.
+- **Computer Vision & Vision AI** — Thị giác máy tính trong SHM, mô hình thị giác nền tảng (GroundingDINO, SAM), đo dao động không tiếp xúc (InfaTrackVision).
+- **Deep Learning & Machine Learning** — Học sâu trên chuỗi thời gian dao động (WaveNet), học một lớp (One-class) bù trừ biến thiên môi trường (EOV).
+- **Population-Based SHM (PBSHM)** — Học chuyển giao tri thức chẩn đoán qua quần thể kết cấu (Cross-structure transfer learning).
+- **Laser Ultrasonics & NDT** — Sóng siêu âm Laser (UPI), hình ảnh hóa wavenumber imaging kiểm tra không phá hủy composite và đường ống.
+- **Operational Modal Analysis (OMA)** — Nhận dạng tham số dao động thực nghiệm công trình cầu và kết cấu turbine gió.
+- **Finite Element Model Updating** — Hiệu chỉnh mô hình phần tử hữu hạn và phân tích ổn định kết cấu công trình.
+- **Nonlinear Random Vibration** — Tuyến tính hóa tương đương và động lực học phi tuyến trong đánh giá kết cấu.
+- **Offshore Wind Turbine Dynamics** — Động lực học móng và kết cấu công trình năng lượng ngoài khơi.
 
 ---
 
