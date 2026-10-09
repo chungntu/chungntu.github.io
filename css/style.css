@@ -1160,16 +1160,15 @@ h1, h2, h3, h4, h5, h6 {
 
 /* ================= Contact Section ================= */
 .contact-grid {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 1.5rem;
+  display: block;
+  max-width: 840px;
 }
 
 .contact-card {
   background: var(--bg-card);
   border: 1px solid var(--border-subtle);
   border-radius: var(--radius-lg);
-  padding: 1.8rem;
+  padding: 2rem;
   box-shadow: var(--shadow-sm);
 }
 
@@ -1180,9 +1179,9 @@ h1, h2, h3, h4, h5, h6 {
 
 .contact-items-list {
   list-style: none;
-  display: flex;
-  flex-direction: column;
-  gap: 1.1rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 1.5rem;
 }
 
 .contact-row {
