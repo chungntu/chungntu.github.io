@@ -5,7 +5,7 @@
 **Trường Đại học Nha Trang (NTU), Việt Nam**  
 *Cựu Nghiên cứu viên: KAIST & LANL-CBNU, Hàn Quốc*
 
-[![Website](https://img.shields.io/badge/Academic%20Website-GitHub%20Pages-blue?style=for-the-badge&logo=github)](https://chungtt.github.io/)
+[![Website](https://img.shields.io/badge/Academic%20Website-GitHub%20Pages-blue?style=for-the-badge&logo=github)](https://chungntu.github.io/chungtt.github.io/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Citations-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=GGEVr8oAAAAJ&hl=en&authuser=1)
 [![Email NTU](https://img.shields.io/badge/Email-chungtt%40ntu.edu.vn-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chungtt@ntu.edu.vn)
 [![Location](https://img.shields.io/badge/Location-Nha%20Trang%2C%20Vietnam-2ea44f?style=for-the-badge&logo=google-maps&logoColor=white)](#)
@@ -24,7 +24,7 @@ Tôi là **Trương Thành Chung**, Giảng viên tại **Khoa Xây dựng, Trư
   - **Thị giác máy tính & AI trong Xây dựng:** Khử rung camera, đo chuyển vị cầu đường sắt bằng UAV/Drone, nhận dạng vết nứt bê tông tự động bằng Deep Learning (CNN & LSTM).
   - **Mô hình phần tử hữu hạn (FEM Updating)** & Tối ưu hóa Topology kết cấu.
 - 💬 **Giảng dạy:** Cơ học kết cấu, Động lực học công trình, Hướng dẫn sinh viên NCKH.
-- 🌐 **Website cá nhân:** [chungtt.github.io](https://chungtt.github.io/)
+- 🌐 **Website cá nhân:** [chungntu.github.io/chungtt.github.io](https://chungntu.github.io/chungtt.github.io/)
 
 ---
 
