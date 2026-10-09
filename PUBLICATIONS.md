@@ -89,30 +89,37 @@
 
 ## 2. Tạp chí Khoa học Trong nước (National Journals)
 
-1. **Truong TC**, **Tran QH**, **Dang QM**, **Tran NH**, **Bui TT**, **Guido De Roeck** (2025).  
+1. **Truong TC**, **Tran TT**, **Nguyen QV**, **Bui TT** (2026).  
+   *InfaTrackVision: A Non-Contact Vibration Measurement System Using Computer Vision Combined with Deep Learning for Structural Health Monitoring*.  
+   **Transport and Communications Science Journal (TCSJ)**, Accepted / In Press (MS: 3057).  
+   [![Status](https://img.shields.io/badge/Status-Accepted%20%2F%20In%20Press-success)](#) 
+   [![Code](https://img.shields.io/badge/GitHub-InfaTrackVision-181717?logo=github)](https://github.com/chungntu/InfaTrackVision) 
+   [![PDF](https://img.shields.io/badge/FullText-PDF-red)](./pdf/2026_infatrackvision_noncontact_vibration_deep_learning_tcsj.pdf)
+
+2. **Truong TC**, **Tran QH**, **Dang QM**, **Tran NH**, **Bui TT**, **Guido De Roeck** (2025).  
    *Dual Laser-Aided UAV Motion Compensation for Vision-Based Displacement Measurement of High-Speed Railway Bridge*.  
    **Journal of Transportation Science and Technology** - Ho Chi Minh City University of Transport, 14(6), 64–70.  
    [![DOI](https://img.shields.io/badge/DOI-10.55228%2FJTST140606-green)](https://www.doi.org/10.55228/JTST140606) 
    [![PDF](https://img.shields.io/badge/FullText-PDF-red)](./pdf/2025_dual_laser_uav_motion_compensation_displacement.pdf)
 
-2. **Truong DD**, **Duong VQ**, **Vo TL**, **Tran NMT**, **Truong TC** (2025).  
+3. **Truong DD**, **Duong VQ**, **Vo TL**, **Tran NMT**, **Truong TC** (2025).  
    *Nghiên cứu ứng dụng kỹ thuật phân tích hình ảnh để đo biến dạng chuyển vị của tấm kết cấu hàng hải khi chịu tải va đập*.  
    **Tạp chí Khoa học và Công nghệ, Đại học Đà Nẵng**, 23(9A), 36–41.  
    [![DOI](https://img.shields.io/badge/DOI-10.31130%2Fud--jst.2025.23(9A).116-green)](https://doi.org/10.31130/ud-jst.2025.23(9A).116) 
    [![PDF](https://img.shields.io/badge/FullText-PDF-red)](./pdf/2025_phan_tich_hinh_anh_bien_dang_chuyen_vi_tam_ket_cau_hang_hai.pdf)
 
-3. **Tung PX**, **Tran QH**, **Dang QM**, **Truong TC** (2025).  
+4. **Tung PX**, **Tran QH**, **Dang QM**, **Truong TC** (2025).  
    *Đánh giá độ tin cậy chuyển vị đỉnh khung thép không gian dưới tác dụng của tải trọng gió*.  
    **Tạp chí điện tử Khoa học và Công nghệ Giao thông**, 4(4), 67–75.  
    [![DOI](https://img.shields.io/badge/DOI-10.58845%2Fjstt.utt.2024.vn.4.4.67--75-green)](https://doi.org/10.58845/jstt.utt.2024.vn.4.4.67-75) 
    [![PDF](https://img.shields.io/badge/FullText-PDF-red)](./pdf/2025_danh_gia_do_tin_cay_chuyen_vi_dinh_khung_thep.pdf)
 
-4. **Tran QH**, **Truong TC**, **Tung PX**, **Dang QM**, **Toan NV** (2024).  
+5. **Tran QH**, **Truong TC**, **Tung PX**, **Dang QM**, **Toan NV** (2024).  
    *Đánh giá độ tin cậy của phương pháp nhiệt hồng ngoại qua khảo sát vị trí và chiều sâu khuyết tật tách lớp bê tông bảo vệ cốt thép*.  
    **Tạp chí Cầu đường Việt Nam**, Số 11.  
    [![PDF](https://img.shields.io/badge/FullText-PDF-red)](./pdf/2024_danh_gia_do_tin_cay_nhiet_hong_ngoai_be_tong.pdf)
 
-5. **Dang QM**, **Truong TC**, **Tung PX**, **Tran QH** (2024).  
+6. **Dang QM**, **Truong TC**, **Tung PX**, **Tran QH** (2024).  
    *Ứng dụng máy bay không người lái và mạng nơ-ron tích chập để phát hiện vết nứt trên bề mặt công trình*.  
    **Tạp chí Cầu đường Việt Nam**, Số 5.  
    [![PDF](https://img.shields.io/badge/FullText-PDF-red)](./pdf/2024_uav_cnn_phat_hien_vet_nut_be_mat_cong_trinh.pdf)

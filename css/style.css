@@ -885,6 +885,18 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: var(--radius-full);
 }
 
+.badge-status-accepted {
+  font-size: 0.72rem;
+  font-weight: 700;
+  font-family: var(--font-mono);
+  padding: 0.18rem 0.55rem;
+  border-radius: var(--radius-full);
+  background: rgba(16, 185, 129, 0.15);
+  color: var(--accent-green);
+  border: 1px solid rgba(16, 185, 129, 0.35);
+  letter-spacing: 0.02em;
+}
+
 .badge-journal {
   background: var(--accent-blue-bg);
   color: var(--accent-primary);

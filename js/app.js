@@ -257,6 +257,27 @@ const publicationsData = [
 
   // ================= NATIONAL JOURNALS =================
   {
+    id: "pub-nat-2026",
+    category: "national",
+    type: "National Journal",
+    status: "Accepted",
+    badgeClass: "badge-national",
+    year: 2026,
+    title: "InfaTrackVision: A Non-Contact Vibration Measurement System Using Computer Vision Combined with Deep Learning for Structural Health Monitoring",
+    authors: ["Truong TC", "Tran TT", "Nguyen QV", "Bui TT"],
+    venue: "Transport and Communications Science Journal (TCSJ), In Press (Accepted September 2026, MS: 3057)",
+    doi: null,
+    code: "https://github.com/chungntu/InfaTrackVision",
+    pdf: "pdf/2026_infatrackvision_noncontact_vibration_deep_learning_tcsj.pdf",
+    bibtex: `@article{truong2026infatrackvision,
+  title={InfaTrackVision: A Non-Contact Vibration Measurement System Using Computer Vision Combined with Deep Learning for Structural Health Monitoring},
+  author={Truong, T. C. and Tran, T. T. and Nguyen, Q. V. and Bui, T. T.},
+  journal={Transport and Communications Science Journal (TCSJ)},
+  year={2026},
+  note={Accepted, In Press (MS: 3057)}
+}`
+  },
+  {
     id: "pub-nat-1",
     category: "national",
     type: "National Journal",
@@ -878,6 +899,13 @@ function renderPublications() {
       </a>
     ` : '';
 
+    const codeBtn = item.code ? `
+      <a href="${item.code}" target="_blank" rel="noopener noreferrer" class="btn-action">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"/></svg>
+        Code &amp; Data
+      </a>
+    ` : '';
+
     const bibBtn = item.bibtex ? `
       <button class="btn-action" onclick="showBibtexModal('${item.id}')">
         <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"/><path d="M5 15H4a2 2 0 01-2-2V4a2 2 0 012-2h9a2 2 0 012 2v1"/></svg>
@@ -885,11 +913,16 @@ function renderPublications() {
       </button>
     ` : '';
 
+    const statusBadge = item.status ? `
+      <span class="badge-status-accepted">✓ ${item.status}</span>
+    ` : '';
+
     return `
       <article class="pub-card" data-id="${item.id}">
         <div class="pub-meta-top">
           <div class="pub-badges-row">
             <span class="badge-pub-type ${item.badgeClass}">${item.type}</span>
+            ${statusBadge}
             <span class="pub-year">${item.year}</span>
           </div>
         </div>
@@ -899,6 +932,7 @@ function renderPublications() {
         <div class="pub-actions">
           ${pdfBtn}
           ${doiBtn}
+          ${codeBtn}
           ${bibBtn}
         </div>
       </article>
