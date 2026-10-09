@@ -345,10 +345,8 @@
 1. **Đề tài SV2023-13-24 (10/2024 – 10/2025):**  
    *Xây dựng hệ thống khử rung camera trong quan trắc dao động kết cấu*.
 2. **Đề tài SV2023-13-24 (04/2024 – 04/2025):**  
-   *Xây dựng bộ thí nghiệm động lực học kết cấu để phục vụ đào tạo*.  
-   *(Đạt Giải Ba Hội nghị Sinh viên NCKH Trường ĐH Nha Trang)*.
+   *Xây dựng bộ thí nghiệm động lực học kết cấu để phục vụ đào tạo*.
 3. **Đề tài SV2020-13-17 (12/2020 – 12/2021):**  
-   *Tối ưu kết cấu tấm khoét lỗ sử dụng phương pháp tối ưu topology*.  
-   *(Đạt Giải Ba Hội nghị Sinh viên NCKH Trường ĐH Nha Trang)*.
+   *Tối ưu kết cấu tấm khoét lỗ sử dụng phương pháp tối ưu topology*.
 
 
