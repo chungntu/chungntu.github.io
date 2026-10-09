@@ -32,7 +32,7 @@
 ## 🎓 Education & Career
 
 - **2020 – Present:** Lecturer, Faculty of Civil Engineering, **Nha Trang University (NTU)**, Vietnam.
-- **2016 – 2019:** Postdoctoral / Visiting Researcher, Department of Aerospace Engineering, **KAIST**, South Korea.
+- **2016 – 2019:** Research Engineer, Department of Aerospace Engineering, **KAIST**, South Korea.
 - **2012 – 2015:** Research Engineer, **LANL-CBNU** Engineering Institute Korea, South Korea.
 - **2009 – 2011:** Graduate Studies in Civil & Environmental Engineering, **KAIST**, South Korea.
 - **2003 – 2008:** B.S. in Civil Engineering, **Ho Chi Minh City University of Technology (HCMUT)**, Vietnam.
